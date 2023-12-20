@@ -181,6 +181,7 @@ function calculateScore(cells) {
     return score;
 }
 
+
 // Função para mudar a vez do jogador
 function changeTurn() {
     // Verificar qual jogador estava jogando
