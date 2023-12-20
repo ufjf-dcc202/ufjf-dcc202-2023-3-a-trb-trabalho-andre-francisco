@@ -37,6 +37,7 @@ function getDiceImage(value) {
     return Dados[value - 1];
 }
 
+
 // Função para adicionar um evento de clique às células
 function addCellClick(cellElement) {
     cellElement.addEventListener("click", function () {
