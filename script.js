@@ -147,6 +147,7 @@ function discard(player, value) {
     }
 }
 
+
 // Função para calcular a pontuação de um jogador
 function calculateScore(cells) {
     // Inicializar a pontuação
